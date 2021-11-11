@@ -1,7 +1,7 @@
 # 05-FPS-Maze
 Project for MSCH-C220, 11 November 2021
 
-Description
+## Description
 First person maze game.
 
 ## Implementation
