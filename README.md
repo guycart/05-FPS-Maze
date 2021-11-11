@@ -1,4 +1,18 @@
-# Godot-3D-Template
-Godot Template for 3D Games
+# 05-FPS-Maze
+Project for MSCH-C220, 11 November 2021
 
-Includes Keyboard mappings and Global.gd
+Description
+First person maze game.
+
+## Implementation
+Built using Godot 3.3.3
+
+## References
+Freesound (https://freesound.org/people/ProjectsU012/sounds/341695/)
+Kenney (https://freesound.org/people/ProjectsU012/sounds/341695/)
+
+## Future Development
+None
+
+## Created by
+Guy Cart
